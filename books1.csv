@@ -1,0 +1,51 @@
+Book-Title,Book-Author,book-path,num_ratings,avg_ratings,book-link
+Harry Potter and the Prisoner of Azkaban (Book 3),J. K. Rowling,assets/book_image/hp_prisoner.jpg,428,5.852803738317757,https://www.goodreads.com/book/show/5.Harry_Potter_and_the_Prisoner_of_Azkaban
+Harry Potter and the Goblet of Fire (Book 4),J. K. Rowling,assets/book_image/hp_prisoner3.jpg,387,5.8242894056847545,https://www.goodreads.com/book/show/6.Harry_Potter_and_the_Goblet_of_Fire
+Harry Potter and the Sorcerer's Stone (Book 1),J. K. Rowling,assets/book_image/hp_prisoner5.jpg,278,5.737410071942446,https://www.goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone
+Harry Potter and the Order of the Phoenix (Book 5),J. K. Rowling,assets/book_image/hp_prisoner9.jpg,347,5.501440922190202,https://www.goodreads.com/book/show/2.Harry_Potter_and_the_Order_of_the_Phoenix
+Harry Potter and the Chamber of Secrets (Book 2),J. K. Rowling,assets/book_image/hp_prisoner13.jpg,556,5.183453237410072,https://www.goodreads.com/book/show/15881.Harry_Potter_and_the_Chamber_of_Secrets
+The Hobbit : The Enchanting Prelude to The Lord of the Rings,J.R.R. TOLKIEN,assets/book_image/hp_prisoner16.jpg,281,5.00711743772242,https://www.goodreads.com/book/show/2267890.The_Hobbit
+"The Fellowship of the Ring (The Lord of the Rings, Part 1)",J.R.R. TOLKIEN,assets/book_image/hp_prisoner17.jpg,368,4.948369565217392,https://www.goodreads.com/book/show/61215351-the-fellowship-of-the-ring
+Harry Potter and the Sorcerer's Stone (Harry Potter (Paperback)),J. K. Rowling,assets/book_image/hp_prisoner26.jpg,575,4.895652173913043,https://www.goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone
+"The Two Towers (The Lord of the Rings, Part 2)",J.R.R. TOLKIEN,assets/book_image/hp_prisoner28.jpg,260,4.880769230769231,https://www.goodreads.com/book/show/569712.The_Lord_of_the_Rings
+To Kill a Mockingbird,Harper Lee,assets/book_image/hp_prisoner39.jpg,510,4.7,https://www.goodreads.com/book/show/2657.To_Kill_a_Mockingbird
+The Da Vinci Code,Dan Brown,assets/book_image/hp_prisoner47.jpg,898,4.642538975501114,https://www.goodreads.com/book/show/968.The_Da_Vinci_Code
+The Five People You Meet in Heaven,Mitch Albom,assets/book_image/hp_prisoner53.jpg,430,4.551162790697674,https://www.goodreads.com/book/show/3431.The_Five_People_You_Meet_in_Heaven
+The Catcher in the Rye,J.D. Salinger,assets/book_image/hp_prisoner55.jpg,449,4.5456570155902005,https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye
+The Lovely Bones: A Novel,Alice Sebold,assets/book_image/hp_prisoner62.jpg,1295,4.468725868725869,https://www.goodreads.com/book/show/12232938-the-lovely-bones
+1984,George Orwell,assets/book_image/hp_prisoner63.jpg,284,4.454225352112676,https://www.goodreads.com/book/show/61439040-1984
+Prodigal Summer: A Novel,Barbara Kingsolver,assets/book_image/hp_prisoner72.jpg,253,4.450592885375494,https://www.goodreads.com/book/show/14249.Prodigal_Summer
+Neverwhere,Neil Gaiman,assets/book_image/hp_prisoner73.jpg,265,4.449056603773585,https://www.goodreads.com/book/show/39821861-neverwhere
+The Secret Life of Bees,Sue Monk Kidd,assets/book_image/hp_prisoner78.jpg,774,4.447028423772609,https://www.goodreads.com/book/show/37435.The_Secret_Life_of_Bees
+Stupid White Men ...and Other Sorry Excuses for the State of the Nation!,Michael Moore,assets/book_image/hp_prisoner84.jpg,283,4.3568904593639575,https://www.goodreads.com/book/show/869647.Stupid_White_Men_Other_Sorry_Excuses_for_the_State_of_the_Nation
+"Tuesdays with Morrie: An Old Man, a Young Man, and Life's Greatest Lesson",MITCH ALBOM,assets/book_image/hp_prisoner85.jpg,493,4.354969574036511,https://www.goodreads.com/book/show/546384.Tuesdays_with_Morrie
+The Red Tent (Bestselling Backlist),Anita Diamant,assets/book_image/hp_prisoner88.jpg,723,4.334716459197787,https://openlibrary.org/books/OL8459036M/Red_Tent_(Bestselling_Backlist)
+The Hitchhiker's Guide to the Galaxy,Douglas Adams,assets/book_image/hp_prisoner89.jpg,268,4.3283582089552235,https://www.goodreads.com/book/show/386162.The_Hitchhiker_s_Guide_to_the_Galaxy
+Nickel and Dimed: On (Not) Getting By in America,Barbara Ehrenreich,assets/book_image/hp_prisoner98.jpg,335,4.28955223880597,https://www.goodreads.com/book/show/1869.Nickel_and_Dimed
+Into the Wild,Jon Krakauer,assets/book_image/hp_prisoner100.jpg,252,4.273809523809524,https://www.goodreads.com/book/show/1845.Into_the_Wild
+Fahrenheit 451,Ray Bradbury,assets/book_image/hp_prisoner103.jpg,409,4.264058679706602,https://www.goodreads.com/book/show/13079982-fahrenheit-451
+Girl with a Pearl Earring,Tracy Chevalier,assets/book_image/hp_prisoner116.jpg,526,4.218631178707224,https://www.goodreads.com/book/show/2865.Girl_with_a_Pearl_Earring
+Outlander,DIANA GABALDON,assets/book_image/hp_prisoner117.jpg,283,4.173144876325089,https://www.goodreads.com/book/show/685403.Outlander
+Where the Heart Is (Oprah's Book Club (Paperback)),Billie Letts,assets/book_image/hp_prisoner123.jpg,585,4.105982905982906,https://www.goodreads.com/book/show/5168.Where_the_Heart_Is
+Seabiscuit: An American Legend,LAURA HILLENBRAND,assets/book_image/hp_prisoner124.jpg,275,4.098181818181819,https://www.goodreads.com/book/show/110737.Seabiscuit
+Life of Pi,Yann Martel,assets/book_image/hp_prisoner126.jpg,664,4.088855421686747,https://www.goodreads.com/book/show/4214.Life_of_Pi
+The Bean Trees,Barbara Kingsolver,assets/book_image/hp_prisoner130.jpg,389,4.087403598971722,https://www.goodreads.com/book/show/30868.The_Bean_Trees
+"A Child Called \It\"": One Child's Courage to Survive""",Dave Pelzer,assets/book_image/hp_prisoner133.jpg,265,4.086792452830188,https://books.google.co.in/books/about/A_Child_Called_It.html?id=18xkvEKR9tsC&redir_esc=y
+ANGELA'S ASHES,Frank McCourt,assets/book_image/hp_prisoner135.jpg,279,4.075268817204301,https://www.goodreads.com/book/show/252577.Angela_s_Ashes
+Good in Bed,Jennifer Weiner,assets/book_image/hp_prisoner137.jpg,490,4.055102040816327,https://www.goodreads.com/book/show/14748.Good_in_Bed
+Fast Food Nation: The Dark Side of the All-American Meal,Eric Schlosser,assets/book_image/hp_prisoner139.jpg,321,4.037383177570093,https://www.goodreads.com/book/show/1097.Fast_Food_Nation
+American Gods,Neil Gaiman,assets/book_image/hp_prisoner140.jpg,302,4.006622516556291,https://www.goodreads.com/book/show/30165203-american-gods
+Skipping Christmas,JOHN GRISHAM,assets/book_image/hp_prisoner141.jpg,322,4.0062111801242235,https://www.goodreads.com/book/show/5357.Skipping_Christmas
+Left Behind: A Novel of the Earth's Last Days (Left Behind No. 1),Tim Lahaye,assets/book_image/hp_prisoner147.jpg,318,4.00314465408805,https://www.goodreads.com/book/show/160456.Left_Behind
+"The Golden Compass (His Dark Materials, Book 1)",PHILIP PULLMAN,assets/book_image/hp_prisoner149.jpg,336,4.0,https://www.goodreads.com/book/show/119322.The_Golden_Compass
+The Color Purple,Alice Walker,assets/book_image/hp_prisoner157.jpg,314,3.964968152866242,https://www.goodreads.com/book/show/52892857-the-color-purple
+Silence of the Lambs,Thomas Harris,assets/book_image/hp_prisoner163.jpg,256,3.9609375,https://www.goodreads.com/book/show/23807.The_Silence_of_the_Lambs
+About a Boy,Nick Hornby,assets/book_image/hp_prisoner166.jpg,262,3.900763358778626,https://booksvooks.com/about-a-boy-pdf-nick-hornby-2.html
+Seven Up (A Stephanie Plum Novel),Janet Evanovich,assets/book_image/hp_prisoner173.jpg,278,3.8884892086330933,https://www.goodreads.com/book/show/6424.Seven_Up
+The Alchemist: A Fable About Following Your Dream,Paulo Coelho,assets/book_image/hp_prisoner175.jpg,266,3.8759398496240602,https://www.goodreads.com/book/show/20910195-the-alchemist
+Hard Eight : A Stephanie Plum Novel (A Stephanie Plum Novel),Janet Evanovich,assets/book_image/hp_prisoner177.jpg,269,3.825278810408922,https://www.goodreads.com/book/show/6425.Hard_Eight
+Suzanne's Diary for Nicholas,James Patterson,assets/book_image/hp_prisoner182.jpg,457,3.8205689277899344,https://www.goodreads.com/book/show/7494.Suzanne_s_Diary_for_Nicholas
+Lord of the Flies,William Gerald Golding,assets/book_image/hp_prisoner186.jpg,259,3.8185328185328187,https://www.goodreads.com/book/show/7624.Lord_of_the_Flies
+A Prayer for Owen Meany,John Irving,assets/book_image/hp_prisoner192.jpg,413,3.7966101694915255,https://www.goodreads.com/book/show/4473.A_Prayer_for_Owen_Meany
+"The Vampire Lestat (Vampire Chronicles, Book II)",ANNE RICE,assets/book_image/hp_prisoner194.jpg,301,3.777408637873754,https://www.goodreads.com/book/show/45437968-the-vampire-lestat
+White Oleander : A Novel (Oprah's Book Club),Janet Fitch,assets/book_image/hp_prisoner195.jpg,356,3.7724719101123596,https://www.goodreads.com/book/show/19431982-white-oleander
